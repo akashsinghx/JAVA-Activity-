@@ -18,7 +18,7 @@ public interface Demo {
 
 	//Case 1
 
-	//public void diaplay();
+	//public void display();
 
 	default void show() {
 
