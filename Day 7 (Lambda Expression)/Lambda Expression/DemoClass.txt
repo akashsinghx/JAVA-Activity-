@@ -1,0 +1,15 @@
+Case 1: - Implementation
+
+ 
+
+DemoClass d=new DemoClass();
+
+		d.diaplay();
+
+		
+
+		Demoable dem=()-> System.out.println("Lambda Expression");
+
+		dem.diaplay();
+
+		dem.diaplay();
